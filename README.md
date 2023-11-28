@@ -18,6 +18,8 @@ La vista desde el otro lado:
 La vista desde el frente:
 ![La vista desde el frente](Practica03-Personaje/caballerito3.png)
 ## **Practica04-Simulacion-colision**
+Gif de colisión:
+![GIF](Practica04-Simulacion-Colision/GIF-simulacion.gif)
 La vista de inicio:
 ![La vista de lado](Practica04-Simulacion-Colision/simulacion1.png)
 Simulacion ya avanzada:
@@ -25,6 +27,8 @@ Simulacion ya avanzada:
 Simulacion ya casi por terminar:
 ![La vista desde el frente](Practica04-Simulacion-Colision/simulacion3.png)
 ## **Practica05-Simulacion-liquidos**
+Gif de colisión:
+![GIF](Practica05-Simulacion-Liquido/GIF-simulacion-li.gif)
 La vista de inicio:
 ![La vista de lado](Practica05-Simulacion-Liquido/liquidos1.png)
 Simulacion ya avanzada:
